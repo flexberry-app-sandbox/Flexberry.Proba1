@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-proba-1-улица-e",
+  "editForm": "i-i-s-proba-1-улица-e",
+  "external": false,
+  "caption": "Улица",
+  "name": "IISProba_1УлицаL",
+  "className": "УлицаL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-proba-1-улица",
+      "modelProjection": "УлицаL"
+    }
+  ]
+}
